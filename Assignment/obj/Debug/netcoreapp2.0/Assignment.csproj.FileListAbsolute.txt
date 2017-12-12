@@ -1,0 +1,11 @@
+C:\Users\tij\source\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.deps.json
+C:\Users\tij\source\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.json
+C:\Users\tij\source\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.runtimeconfig.dev.json
+C:\Users\tij\source\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.dll
+C:\Users\tij\source\Assignment\Assignment\bin\Debug\netcoreapp2.0\Assignment.pdb
+C:\Users\tij\source\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\tij\source\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\tij\source\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\tij\source\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.AssemblyInfo.cs
+C:\Users\tij\source\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.dll
+C:\Users\tij\source\Assignment\Assignment\obj\Debug\netcoreapp2.0\Assignment.pdb
